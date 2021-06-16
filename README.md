@@ -8,7 +8,7 @@ The K12 classroom application pack includes 5 applications for teachers:
 * Reading Log - A logging application for children and their parents to log their daily reading assignments
 * Student Check-in - Create a daily emotional assessment of your students
 
-Watch installation and configuration video on YouTube here:
+Watch installation and configuration video on YouTube here: https://www.youtube.com/watch?v=AaU0ndCuC-4
 
 Steps to installation:
 * Download the zip file on this repository
