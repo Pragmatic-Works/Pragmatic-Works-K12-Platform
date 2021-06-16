@@ -28,3 +28,5 @@ Open App Configuration and click Variable Configuration to add your own theme co
 * varSecondaryColorFill - #5b5b5b
 * varSecondaryTextColor - #FFFFFF
 * varReadingRequireParentSig - true or false (do you require a parent sign off on the Reading Log application?
+
+Open each app that you want to put into teams and click Publish to Teams. Select the Channel you want to publish and click Save.
