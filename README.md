@@ -29,4 +29,11 @@ Open App Configuration and click Variable Configuration to add your own theme co
 * varSecondaryTextColor - #FFFFFF
 * varReadingRequireParentSig - true or false (do you require a parent sign off on the Reading Log application?
 
+Go back home in the App Configuration and go to the Emotion Configuration. Add the following emotions and customize it to your liking. (The second value is the icon)
+* I'm Great - 03-Grinning Face with Smiling Eyes
+* Meh - 23- Unamused Face
+* I'm OK - 06-Slightly Smiling Face
+* I'm Struggling - 12-Slightly Frowning Face
+* I Need Help - 28-Pleading Face
+
 Open each app that you want to put into teams and click Publish to Teams. Select the Channel you want to publish and click Save.
