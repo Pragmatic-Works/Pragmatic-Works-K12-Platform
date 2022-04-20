@@ -7,6 +7,9 @@ The K12 classroom application pack includes 5 applications for teachers:
 * Class Lesson Assessment - For creating formative learning assessments and grading quizes
 * Reading Log - A logging application for children and their parents to log their daily reading assignments
 * Student Check-in - Create a daily emotional assessment of your students
+* Class Management - Take attendance for your class
+* IT Request - Create an IT request
+* Maintenanc Request - Request maintenance in your classroom.
 
 Watch installation and configuration video on YouTube here: https://www.youtube.com/watch?v=AaU0ndCuC-4
 
